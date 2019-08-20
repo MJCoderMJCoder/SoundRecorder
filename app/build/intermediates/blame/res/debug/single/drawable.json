@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_record.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pause.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_record.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\drawable\\btn_record.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_new.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\drawable\\btn_new.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pause.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_new.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_new.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_delete.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_stop.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_stop.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_finish.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\drawable\\btn_finish.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_finish.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_finish.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_stop.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\drawable\\btn_stop.xml"
+    }
+]

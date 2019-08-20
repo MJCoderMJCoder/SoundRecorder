@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tape_top.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\tape_top.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_new_normal.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_new_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_new_pressed.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_new_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_colon.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\colon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_new_disabled.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_new_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_0.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_0.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_4.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_4.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_new.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_new.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_context_menu_header.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\layout\\context_menu_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_stop_pressed.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_stop_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pause_normal.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_pause_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_fm.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_fm.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_8.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_8.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stat_sys_call_record.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\stat_sys_call_record.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_view_list.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_view_list.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_stop_normal.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_stop_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_record_pressed.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_record_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_pause_pressed.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_pause_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stat_sys_call_record_full.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\stat_sys_call_record_full.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wheel_small_right.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\wheel_small_right.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_delete_disabled.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_delete_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_vumeter.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\icon_vumeter.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_delete_pressed.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_delete_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wheel_left.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\wheel_left.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_5.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_5.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_record.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\record.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_empty_icon.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\empty_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_delete.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_delete.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_finish_pressed.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_finish_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_finish_disabled.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_finish_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_play_normal.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_play_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_2.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_2.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_delete_normal.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_delete_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_play.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_finish_normal.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_finish_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wheel_right.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\wheel_right.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_play_pressed.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_play_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_6.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_6.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_key.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\background_key.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_record_normal.9.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\btn_record_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wheel_small_left.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\wheel_small_left.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_1.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_1.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_soundrecorder.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_soundrecorder.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_pause.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_3.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_3.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_list_menu.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\layout\\view_list_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_record.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_record.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_stop.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_stop.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_number.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\background_number.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tape_bottom.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\tape_bottom.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_finish.xml.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable\\btn_finish.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_number_7.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\number_7.png"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_vumeter.png.flat",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\drawable-hdpi\\background_vumeter.png"
+    }
+]

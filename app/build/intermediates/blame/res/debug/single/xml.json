@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

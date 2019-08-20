@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_menu.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\layout\\view_list_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_menu.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\layout\\view_list_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_header.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\layout\\context_menu_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\SoundRecorder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_header.xml",
+        "source": "E:\\Android\\workspace\\SoundRecorder\\app\\src\\main\\res\\layout\\context_menu_header.xml"
+    }
+]
